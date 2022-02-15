@@ -1,0 +1,13 @@
+D:\project\rust\wasm_game\target\release\deps\quote-f0dc76d11a93adfa.rmeta: C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\lib.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ext.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\format.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ident_fragment.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\to_tokens.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\runtime.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\spanned.rs
+
+D:\project\rust\wasm_game\target\release\deps\libquote-f0dc76d11a93adfa.rlib: C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\lib.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ext.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\format.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ident_fragment.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\to_tokens.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\runtime.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\spanned.rs
+
+D:\project\rust\wasm_game\target\release\deps\quote-f0dc76d11a93adfa.d: C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\lib.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ext.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\format.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ident_fragment.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\to_tokens.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\runtime.rs C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\spanned.rs
+
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\lib.rs:
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ext.rs:
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\format.rs:
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\ident_fragment.rs:
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\to_tokens.rs:
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\runtime.rs:
+C:\Users\lopo\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.15\src\spanned.rs:

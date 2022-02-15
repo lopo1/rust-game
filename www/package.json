@@ -1,0 +1,25 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-webpack-plugin": "^10.2.1",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.5",
+    "wasm_game": "file:../pkg",
+    "webpack": "^5.67.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.3"
+  }
+}
